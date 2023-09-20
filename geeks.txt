@@ -1,0 +1,2 @@
+I am writing to a file using python hihi!
+And now, I'm append to the file
